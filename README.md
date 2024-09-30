@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seraj Abu Eisha
 - 👀 I’m interested in Game Dev and App Programming
 - 🌱 I’m currently learning WebDev & Game Dev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Finding a job ('*~*')
 - 📫 How to reach me serajabueisha@gmail.com
 - ⚡ Fun fact: I am a fan of Video games, Anime, retro Wave, 80s styles, asthetics, etc.
 
