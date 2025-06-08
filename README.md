@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning WebDev/ASP.Net Dev & Game Dev
 - 💞️ I’m looking to collaborate on Finding a job
 - 📫 How to reach me serajabueisha@gmail.com
+- Don't forget to try my games on Itch.io : https://eastdesert.itch.io/shadows-beta and https://eastdesert.itch.io/retro-rage-beta
 - ⚡ Fun fact: I am an INFP, and a fan of Video games, Anime, retro Wave, 80s styles, asthetics, etc.
 
 <!---
