@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Seraj Abu Eisha
 - 👀 I’m interested in Game Dev and App Programming
 - 🌱 I’m currently learning WebDev/ASP.Net Dev & Game Dev
+- and also I am an pixel artist, and I am open for commission as well
 - 💞️ I’m looking to collaborate on Finding a job
 - 📫 How to reach me serajabueisha@gmail.com
 - Don't forget to try my games on Itch.io : https://eastdesert.itch.io/shadows-beta and https://eastdesert.itch.io/retro-rage-beta
