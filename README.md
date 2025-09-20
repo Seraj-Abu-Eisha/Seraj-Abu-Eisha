@@ -8,14 +8,14 @@
 ---
 
 ###  About Me
--  I’m currently working on **[RetroRage](https://eastdesert.itch.io/retro-rage-beta)**  
--  Learning **ASP.NET** to expand my backend skills  
--  Also developing **[Switch/Shadows](https://eastdesert.itch.io/switch)**  
--  Check all my projects on [**LinkedIn**](https://www.linkedin.com/in/seraj-abu-eisha-4099682aa/)  
--  I write articles about **game development** on [**LinkedIn**](https://www.linkedin.com/in/seraj-abu-eisha-4099682aa/)  
--  Ask me about **Unity & Game Development**  
--  Reach me at **serajabueisha@gmail.com**  
--  **Fun fact:** I’m an **INFP** personality type 🌱
+ I’m currently working on **[RetroRage](https://eastdesert.itch.io/retro-rage-beta)**  
+  Learning **ASP.NET** to expand my backend skills  
+  Also developing **[Switch/Shadows](https://eastdesert.itch.io/switch)**  
+  Check all my projects on [**LinkedIn**](https://www.linkedin.com/in/seraj-abu-eisha-4099682aa/)  
+  I write articles about **game development** on [**LinkedIn**](https://www.linkedin.com/in/seraj-abu-eisha-4099682aa/)  
+  Ask me about **Unity & Game Development**  
+  Reach me at **serajabueisha@gmail.com**  
+  **Fun fact:** I’m an **INFP** personality type 
 
 ---
 
