@@ -15,7 +15,7 @@
   I write articles about **game development** on [**LinkedIn**](https://www.linkedin.com/in/seraj-abu-eisha-4099682aa/)  
   Ask me about **Unity & Game Development**  
   Reach me at **serajabueisha@gmail.com**  
-  **Fun fact:** I’m an **INFP** personality type 
+  I’m an **INFP** personality type 
 
 ---
 
